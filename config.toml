@@ -1,0 +1,4 @@
+baseURL = 'https://adhavant.github.io/'
+languageCode = 'en-us'
+title = "Adhavan's Portfolio"
+theme = "color_your_world"
